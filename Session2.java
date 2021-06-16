@@ -6,7 +6,7 @@ public class Session2 {
 		// TODO Auto-generated method stub
    //just edited
 
-		System.out.println("Enter the Input : ");
+		System.out.println("Enter the Input: ");
 		
 		Scanner scans = new Scanner(System.in);
 		int nUserInput = scans.nextInt();
@@ -26,7 +26,7 @@ public class Session2 {
 				if(j>=nLeft && j<=nRight )
 				    System.out.print("*");
 				else
-					System.out.print(" ");
+					System.out.print(" Thasleema");
 				
 			}
 			if(i<nUserInput) {
