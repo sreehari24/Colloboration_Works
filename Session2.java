@@ -16,6 +16,7 @@ public class Session2 {
 		int nLeft = nUserInput, nRight = nUserInput;
 		//System.out.println("nRowCol : "+nRowCol);
 		
+		//new
 		for(int i=1;i<=nRowCol;i++)//row
 		{
 			
