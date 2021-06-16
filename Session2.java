@@ -4,7 +4,7 @@ public class Session2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+   //just edited
 
 		System.out.println("Enter the Input : ");
 		
